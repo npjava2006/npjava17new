@@ -1,7 +1,7 @@
 package com.npjava.newfeatures;
 
 /**
- * @author peddi
+ * @author npjava2006
  */
 public class WelcomeJava17 {
     public static void main(String[] args) {
