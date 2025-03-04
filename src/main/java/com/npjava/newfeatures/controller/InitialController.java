@@ -16,6 +16,6 @@ public class InitialController {
     }
     @GetMapping("/hello")
     public String sayHello() {
-        return "Hello, Spring Boot!";
+        return "Hello, npjava2006!";
     }
 }

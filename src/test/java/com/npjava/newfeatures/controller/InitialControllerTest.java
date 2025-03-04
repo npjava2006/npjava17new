@@ -22,6 +22,6 @@ class InitialControllerTest {
     void testSayHello() throws Exception {
         mockMvc.perform(get("/api/hello"))
                 .andExpect(status().isOk())
-                .andExpect(content().string("Hello, Spring Boot!"));
+                .andExpect(content().string("Hello, npjava2006!"));
     }
 }
