@@ -3,7 +3,7 @@ package com.npjava.newfeatures;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@SpringBootApplication
+@SpringBootApplication(scanBasePackages = "com.npjava")
 public class NpJava17NewApplication {
     public static void main(String[] args) {
         SpringApplication.run(NpJava17NewApplication.class, args);

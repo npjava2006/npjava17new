@@ -1,4 +1,4 @@
-package controller;
+package com.npjava.newfeatures.controller;
 
 import com.npjava.newfeatures.NpJava17NewApplication;
 import org.junit.jupiter.api.Test;
