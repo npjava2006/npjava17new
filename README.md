@@ -3,12 +3,17 @@
 ## 🚀 Overview
 A Spring Boot application built with Java 17, demonstrating new Java features and RESTful API development.
 
+## About This Project
+This project was developed as part of my continuous learning and upskilling during my career transition in early 2025.  
+I explored Java 17, Spring Boot 3.2.1, and modern development practices while working on this.
+
 ## 🛠️ Tech Stack
 
 ### **Core Technologies**
 - **Java 17** - Programming language
 - **Spring Boot 3.2.1** - Framework for building Java applications
 - **Maven** - Build and dependency management tool
+- **Development Period:** January 2025- Current
 
 ### **Spring Boot Modules**
 - **Spring Boot Starter** - Core dependency for Spring applications
