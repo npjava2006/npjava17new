@@ -37,6 +37,22 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-actuator</artifactId>
         </dependency>
+        <!-- Spring Boot Cache lettuce-core for Redis client -->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-data-redis</artifactId>
+        </dependency>
+        <!-- Lettuce is not downloading for redis, so using Jedis -->
+<!--        <dependency>-->
+<!--            <groupId>io.lettuce.core</groupId>-->
+<!--            <artifactId>lettuce-core</artifactId>-->
+<!--            <version>6.2.5.RELEASE</version>-->
+<!--        </dependency>-->
+        <dependency>
+            <groupId>redis.clients</groupId>
+            <artifactId>jedis</artifactId>
+            <version>5.1.0</version>
+        </dependency>
 
         <!-- Spring Boot Test (Optional) -->
         <dependency>
