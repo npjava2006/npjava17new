@@ -6,10 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="npjava17new" />
+        <module name="np-java" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="np-java" target="17" />
+      <module name="np-ui" target="17" />
       <module name="npjava17new" target="17" />
     </bytecodeTargetLevel>
   </component>
