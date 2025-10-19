@@ -1,7 +1,7 @@
 # npjava17new
 
 ## 🚀 Overview
-A Spring Boot application built with Java 17, demonstrating new Java features and RESTful API development.
+A Spring Boot application built with Java 17 Jet brains openJDK , demonstrating new Java features and RESTful API development.
 
 ## About This Project
 This project was developed as part of my continuous learning and upskilling during my career transition in early 2025.  
