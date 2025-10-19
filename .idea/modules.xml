@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/np-java/np-java.iml" filepath="$PROJECT_DIR$/np-java/np-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/np-ui/np-ui.iml" filepath="$PROJECT_DIR$/np-ui/np-ui.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/npjava17new.iml" filepath="$PROJECT_DIR$/.idea/npjava17new.iml" />
     </modules>
   </component>
